@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["Tlkjc"]); }
-
-__d("WIGDropdownMenuPageDataContext",["React"],(function(a,b,c,d,e,f){"use strict";a=b("React").createContext({pushPage:function(){},returnToPreviousPage:function(){},width:0,moveFocus:function(){}});e.exports=a}),null);

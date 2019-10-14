@@ -1,0 +1,119 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: turquoise;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    header {
+        background-color: white;
+        width: 98%;
+        height: 12%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    
+    .container h1 {
+        width: 15%;
+        margin: 0 auto;
+        float: left;
+        padding: 2% 0;
+        background-color: teal;
+        margin-left: 22.70%;
+        color: white;
+        text-align: center;
+    }
+    
+    
+    nav {
+        float: right;
+    }
+    
+    nav ul {
+        margin: 0 -70%;
+        list-style: none;
+        padding: 0;
+    }
+    
+    nav ul li {
+        display: inline-block;
+        margin-right: 105px;
+        padding-top: 45px;
+    }
+    
+    nav ul li a {
+        color: teal;
+        text-decoration: none;
+    }
+    
+    
+    header::after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+    
+    main {
+        background-color: white;
+        width: 51%;
+        height: 90%;
+        padding: 1%;
+        border: 1px solid teal;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 3%;
+        margin-bottom: 18%;
+        padding-bottom: 30%;
+        
+    }
+    
+    .contact {
+        width: 94%;
+        height: 0%;
+        border: teal;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 5%;
+        border-bottom: 2px solid teal;
+        color: teal;
+    }
+
+    .name {
+        width: 94.5%;
+        padding: 30px;
+        padding-right: -50px;
+        box-sizing: border-box;
+        margin-bottom: 25px;
+        margin-left: 3%;
+        border: 2px solid #e9eaea;
+        font-size: 14px;
+        border-radius: 5px;
+    }
+
+    .email h2 {
+        color: teal;
+        margin-left: 2%;
+    }
+
+    .message h2 {
+        color: teal;
+        margin-left: 2%;
+    }
+
+    
+    footer {
+        background-color: teal;
+        width: 98%;
+        height: 12%;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: auto;
+        border-top: 1em solid grey;
+    }
+    
+    .container4 {
+        color: lightgray;
+        margin-top: 6%;
+        margin-left: 48%;
+    
+    }
