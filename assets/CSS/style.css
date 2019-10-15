@@ -2,8 +2,7 @@ body {
     height: 100%;
     width: 100%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-size: auto, cover;
-    background-color: #c4dada;
+    background-image: url("../images/concrete-texture.png");
     }
     
     header {
