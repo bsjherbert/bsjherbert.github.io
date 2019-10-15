@@ -1,12 +1,14 @@
 body {
     height: 100%;
     width: 100%;
-    background-color: turquoise;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-size: auto, cover;
+    background-color: #c4dada;
     }
     
     header {
-        background-color: white;
+        border-color: #cccccc;
+        background-color: #ffffff;
         width: 100%;
         height: 12%;
         margin-right: auto;
@@ -20,8 +22,9 @@ body {
         padding: 2% 0;
         background-color: teal;
         margin-left: 23.65%;
-        color: white;
+        color: #ffffff;
         text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
     }
     
     
@@ -37,12 +40,13 @@ body {
     
     nav ul li {
         display: inline-block;
-        margin-right: 106px;
+        margin-right: 109px;
         padding-top: 45px;
     }
     
     nav ul li a {
-        color: teal;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #4aaaa5;
         text-decoration: none;
     }
     
@@ -53,12 +57,13 @@ body {
     }
     
     main {
-        background-color: white;
+        background-color: #ffffff;
         width: 960px;
         height: 90%;
         padding: 1%;
         padding-bottom: 10%;
         border: 1px solid teal;
+        border-color: #dddddd;
         margin-left: auto;
         margin-right: auto;
         margin-top: 3%;
@@ -67,7 +72,7 @@ body {
     }
     
     h1 {
-        
+        font-family: Georgia, 'Times New Roman', Times, serif;
         width: 20%;
         color: teal; 
         background-color: white; 
@@ -93,6 +98,7 @@ body {
     }
     
     p {
+        font: #777777;
         font-size: 125%;
         line-height: 180%;
         margin-top: 4.5%;
@@ -100,10 +106,10 @@ body {
     }
     
     footer {
-        background-color: teal;
+        background-color: #666666;
         padding-bottom: 100px;
         width: 100%;
-        border-top: 1em solid grey;
+        border-top: 8px solid #4aaaa5;
     }
     
     .container4 {
@@ -113,4 +119,61 @@ body {
         margin-left: 48%;
     
     }
+
+    /* -------Beginning of CSS for Contact page specifics-------*/
+
+
+    input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;
+    border: 1px solid #ccc; 
+    box-sizing: border-box;
+    margin-top: 16px; 
+    margin-bottom: 16px; 
+  }
+  
+    input[type=submit] {
+    background-color: #4aaaa5;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+    input[type=submit]:hover {
+    background-color: #4aaaa5;
+  }
+  
+    .container1 {
+    margin: 40px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+}
+
+    form {
+    margin-top: 50px;
+    background-color: #ffffff;
+    border-top: 3px solid teal;
+
+    }
+
+    .contact-container h1 {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        width: 20%;
+        color: teal; 
+        background-color: white; 
+        margin-top: 2%; 
+        margin-left: 2%;
+        padding-right: 30%;
+
+    }
+
+    /* -------Beginning of CSS for Contact page specifics-------*/
+
+
+.container6 {
+    padding-bottom: 20px;
+}
+
+
     
