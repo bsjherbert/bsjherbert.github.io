@@ -7,7 +7,7 @@ body {
     
     header {
         background-color: white;
-        width: 98%;
+        width: 100%;
         height: 12%;
         margin-right: auto;
         margin-left: auto;
@@ -19,7 +19,7 @@ body {
         float: left;
         padding: 2% 0;
         background-color: teal;
-        margin-left: 22.70%;
+        margin-left: 23.65%;
         color: white;
         text-align: center;
     }
@@ -37,7 +37,7 @@ body {
     
     nav ul li {
         display: inline-block;
-        margin-right: 105px;
+        margin-right: 106px;
         padding-top: 45px;
     }
     
@@ -45,7 +45,6 @@ body {
         color: teal;
         text-decoration: none;
     }
-    
     
     header::after {
         content: '';
@@ -55,65 +54,63 @@ body {
     
     main {
         background-color: white;
-        width: 51%;
+        width: 960px;
         height: 90%;
         padding: 1%;
+        padding-bottom: 10%;
         border: 1px solid teal;
         margin-left: auto;
         margin-right: auto;
         margin-top: 3%;
         margin-bottom: 18%;
-        padding-bottom: 30%;
         
     }
     
-    .contact {
-        width: 94%;
-        height: 0%;
-        border: teal;
-        margin-left: auto;
-        margin-right: auto;
+    h1 {
+        
+        width: 20%;
+        color: teal; 
+        background-color: white; 
+        margin-top: 2%; 
+        margin-left: 2%;
+        padding-right: 30%;
+    }
+    
+    .container3 {
+        border-top: 3px solid teal;
         margin-top: 5%;
-        border-bottom: 2px solid teal;
-        color: teal;
-    }
-
-    .name {
-        width: 94.5%;
-        padding: 30px;
-        padding-right: -50px;
-        box-sizing: border-box;
-        margin-bottom: 25px;
-        margin-left: 3%;
-        border: 2px solid #e9eaea;
-        font-size: 14px;
-        border-radius: 5px;
-    }
-
-    .email h2 {
-        color: teal;
+        margin-right: 2%;
         margin-left: 2%;
+        clear: left;
     }
-
-    .message h2 {
-        color: teal;
-        margin-left: 2%;
+    
+    img {
+        float: left;
+        width: 20%;
+        height: 20%;
+        margin-top: 5%;
+        margin-right: 5%;
     }
-
+    
+    p {
+        font-size: 125%;
+        line-height: 180%;
+        margin-top: 4.5%;
+    
+    }
     
     footer {
         background-color: teal;
-        width: 98%;
-        height: 12%;
-        margin-right: auto;
-        margin-left: auto;
-        margin-bottom: auto;
+        padding-bottom: 100px;
+        width: 100%;
         border-top: 1em solid grey;
     }
     
     .container4 {
+        float: left;
         color: lightgray;
-        margin-top: 6%;
+        height: -100px;
         margin-left: 48%;
     
     }
+    
