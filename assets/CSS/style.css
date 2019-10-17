@@ -62,9 +62,7 @@ body {
     font-size: 30px;
     padding: 30px;
     margin-left: 443px;
-    color: #4aaaa5;
-    
-    
+    color: #4aaaa5;   
 }
 
 .navbar-nav {
@@ -97,7 +95,6 @@ body {
     padding-bottom: 20px;
     margin-bottom: 15px;
     line-height: 22px;
-    border-bottom: 2px solid #;
   }
   
   /* main */
