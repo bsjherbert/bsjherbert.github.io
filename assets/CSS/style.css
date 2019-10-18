@@ -118,13 +118,15 @@ body {
   
   .carousel-inner {
     widows: 960px;
-    height:480px;
+    height:480px !important;
   }
 
   .carousel-item {
     widows: 960px;
     height:480px;
   }
+
+
 
 
 
