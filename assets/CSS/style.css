@@ -156,6 +156,10 @@ h3, h2 {
   margin-right: 25px;
 }
 
+.carousel-caption {
+  border: #ffffff !important;
+}
+
 /* contact page */
 
 #contact-form ul {
