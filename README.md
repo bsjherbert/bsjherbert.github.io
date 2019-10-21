@@ -1,21 +1,17 @@
 # bsjherbert.github.io
 
-Project Title:
-
 For this project I have created 3 separate pages that make up my portfolio. 
 It includes 3 links at the top of the page that will take you to each page. The first
 page is an "About Me" page that includes an image and description of who I am. The second page is
 the actual "Portfolio" page. This page includes links to all of my work. The last page is a "Contact" page.
 It connects you to me through filling out a form with your name and email.
 
-
-Instructions:
-
 You will need to have internet access and this link (https://bsjherbert.github.io/) to view the page. Once there you can
 navigate the site using the three tabs at the top "About, Portfolio and Contact." You can interact with the portfolio page by
 clicking on the items as the scroll or manually scroll the items using the right and left arrows.
 
-bsjherbert.githubio/assets/Images
+
+Screenshots: bsjherbert.githubio/assets/Images
 
 
 Built With:
@@ -26,16 +22,12 @@ Photos
 Google Dev Tools
 
 
-Credits
-
-getbootstrap.com
+Credits: getbootstrap.com
 
 
-Liscense
+MIT License:
 
-MIT License
-
-Copyright (c) [year] [fullname]
+Copyright (c) [2019] [Steven Jay Herbert]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
